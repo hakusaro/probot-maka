@@ -19,7 +19,7 @@
   "homepage": "https://github.com/behaviorbot/update-docs#readme",
   "devDependencies": {
     "eslint-plugin-import": "^2.7.0",
-    "expect": "^1.20.2",
+    "expect": "^24.8.0",
     "localtunnel": "^1.8.3",
     "mocha": "^3.4.2",
     "standard": "^10.0.3"
